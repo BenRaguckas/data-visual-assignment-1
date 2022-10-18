@@ -1,0 +1,11 @@
+publicReference,price,price_unit,price_vat,engineSize,engineSizeCC,registrationYear,colour,mileageKm,make,model,fuelType,transmission,sale_city,sale_county
+202208279188667,18995,€,True,1.4,1400,2016,Grey,61153.0,Abarth,500,Petrol,Automatic,Dublin 13,Dublin
+202209099592611,22950,€,True,1.4,1400,2018,Black,45646.0,Abarth,595,Petrol,Manual,Finglas,Dublin
+202210050447714,18994,€,True,1.4,1400,2017,Grey,84649.0,Abarth,595,Petrol,Manual,Dublin 20,Dublin
+202207057489010,13995,€,True,1.5,1490,1991,Black,32500.0,Alfa Romeo,33,Petrol,Manual,Dublin 22,Dublin
+202209280188538,79950,€,True,1.7,1742,2014,Red,45999.0,Alfa Romeo,4C,Petrol,Automatic,Dublin 8,Dublin
+202210100598365,75950,€,True,2.0,2000,2023,Gold,,Alfa Romeo,Giulia,Petrol,Automatic,Cork City,Cork
+202206076550711,68750,€,True,2.0,2000,2022,Blue,,Alfa Romeo,Giulia,Petrol,Automatic,Cork City,Cork
+202108136211640,68750,€,True,2.0,2000,2022,Red,,Alfa Romeo,Giulia,Petrol,Automatic,Cork City,Cork
+202108126143797,68750,€,True,2.0,2000,2022,Grey,,Alfa Romeo,Giulia,Petrol,Automatic,Cork City,Cork
+202007101089602,66999,€,True,2.0,2000,2022,Blue,0.0,Alfa Romeo,Giulia,Petrol,Automatic,Dublin 15,Dublin
