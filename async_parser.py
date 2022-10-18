@@ -1,6 +1,5 @@
-import requests
-#   TQDM to have a fancy loading bar (for loading ~3500 pages of potential data)
-from tqdm import tqdm
+import asyncio
+import aiohttp
 
 
 def parse_json_item(json_dict: dict) -> dict:
@@ -23,25 +22,36 @@ def parse_json_item(json_dict: dict) -> dict:
     return car_info
 
 
-class CarZoneParser:
-    #   Constructor with base_url setter
-    def __init__(self, url: str):
-        self.base_url = url
-        self.page_ext = '?page='
+class Scraper(object):
+    def __init__(self, url: str, page_count: int):
+        self.page_count = page_count
+        self.url = url
+        # self.all_list = []
+        # self.master_dict = {}
+        asyncio.run(self.main())
 
-    #   Method for parsing response data
+    #   Fetch single page of items
+    async def fetch(self, session, num: int) -> list:
+        try:
+            async with session.get(self.url + str(num)) as response:
+                json = await response.json()
+                items = json['results'][1]['items']
+                car_list = []
+                for i in range(len(items)):
+                    car_list.append(parse_json_item(items[i]['summary']))
+                return car_list
+        except Exception as e:
+            print('Error: ' + str(e))
 
-    #   Return the page count according to base_url
-    def __get_page_count(self) -> int:
-        return requests.get(self.base_url).json()['totalPages']
+    #
+    async def main(self):
+        tasks = []
+        async with aiohttp.ClientSession() as session:
+            for i in range(self.page_count):
+                tasks.append(self.fetch(session, i))
 
-    def get_pages_data(self, page_count: int) -> list:
-        page_max = self.__get_page_count()
-        if page_count <= 0 or page_count > page_max:
-            page_count = page_max
-        info_list = []
-        for i in tqdm(range(1, page_count + 1), desc='Loading pages'):
-            items = requests.get(self.base_url + self.page_ext + str(i)).json()['results'][1]['items']
-            for j in range(len(items)):
-                info_list.append(parse_json_item(items[j]['summary']))
-        return info_list
+            results = await asyncio.gather(*tasks)
+
+        for test in results:
+            print(test)
+
