@@ -1,4 +1,6 @@
 import requests
+#   TQDM to have a fancy loading bar (for loading ~3500 pages of potential data)
+from tqdm import tqdm
 
 
 #   Static method for parsing response data
@@ -34,10 +36,10 @@ class CarZoneParser:
 
     def get_pages_data(self, page_count: int) -> list:
         page_max = self.__get_page_count()
-        if page_count <= 0 | page_count > page_max:
+        if page_count <= 0 or page_count > page_max:
             page_count = page_max
         info_list = []
-        for i in range(1, page_count + 1):
+        for i in tqdm(range(1, page_count + 1), desc='Loading pages'):
             items = requests.get(self.base_url + self.page_ext + str(i)).json()['results'][1]['items']
             for j in range(len(items)):
                 info_list.append(parse_json_item(items[j]['summary']))
