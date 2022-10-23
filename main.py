@@ -29,7 +29,7 @@ def get_async_data():
     scrapper = async_parser.Scraper(
         chunk_size=4,
         timeout=0,
-        page_count=400,
+        # page_count=400,
         extras=True,
         max_retries=5,
         retry_timeout=0.5,

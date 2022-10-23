@@ -1,0 +1,7 @@
+100%|██████████| 3510/3510 [34:01<00:00,  1.72it/s]
+Base url used='https://www.carzone.ie/rest/1.0/Car/stock?page='
+Extras mode = True
+Times timed out = [3069, 184, 9, 0, 0]
+Errors encountered = 0
+Pages expected = 3510, requested = 3510
+Items expected = 35097, received = 35100
