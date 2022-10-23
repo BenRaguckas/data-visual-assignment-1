@@ -1,0 +1,218 @@
+{
+  "advertId": "202108136211640",
+  "advertiser": {
+    "advertiserId": "10017289",
+    "sellerType": "Trade",
+    "advertiserName": "Dan Seaman Motors",
+    "location": {
+      "latitude": 51.870542,
+      "longitude": -8.483899
+    },
+    "address": {
+      "address": "Forge Hill",
+      "town": "Kinsale Road",
+      "city": "Cork City",
+      "postcode": null,
+      "county": "Cork",
+      "country": "IE"
+    },
+    "emailContactable": true,
+    "website": "https://www.danseamanmotors.ie/",
+    "telephoneOne": "(021) 432 0266",
+    "telephoneTwo": null,
+    "capabilities": [
+      "Video",
+      "CovidSafetyService",
+      "PartExchange",
+      "LiveChat",
+      "LiveVideoService",
+      "DealerBranding",
+      "MoreVehicleLinks",
+      "HomeDeliveryService"
+    ],
+    "dealerLogo": "https://ie-dealerlogo.atcdn.co.uk/dealer-resource/logo/10017289.jpg",
+    "premisesLogo": "https://ie-dealerlogo.atcdn.co.uk/dealer-resource/premises/10017289.jpg",
+    "reviewsStats": null,
+    "tola": false
+  },
+  "media": {
+    "images": [
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/6c4256d1ad4145dfaf11f0b908b75605.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/6c4256d1ad4145dfaf11f0b908b75605.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/17e81bdf0d894444b81305b084075953.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/17e81bdf0d894444b81305b084075953.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/82b613e4cbc449aba7d65404ae1c0a10.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/82b613e4cbc449aba7d65404ae1c0a10.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/f56b54f8c1084f8ebbc378079a93e4cc.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/f56b54f8c1084f8ebbc378079a93e4cc.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/71c71a37cde844b9bdb0ee6d37de5ce3.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/71c71a37cde844b9bdb0ee6d37de5ce3.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/1a8849012eb24f169f3617a8ab951e3b.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/1a8849012eb24f169f3617a8ab951e3b.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/016b6e3b57164e2e9eda0ea3dc3f3a6a.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/016b6e3b57164e2e9eda0ea3dc3f3a6a.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/809437592fc44ab9a6740c567b021dee.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/809437592fc44ab9a6740c567b021dee.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/abc6d3053b3d4f3f83bc13736ed4b6e9.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/abc6d3053b3d4f3f83bc13736ed4b6e9.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/3ceeec6a8f0d46f4a1ca5d037eb7c948.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/3ceeec6a8f0d46f4a1ca5d037eb7c948.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/6ed2e5aa91744e8e8a1afee031719fd2.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/6ed2e5aa91744e8e8a1afee031719fd2.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/fe278cee4f784c1bbb087cfc2de81100.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/fe278cee4f784c1bbb087cfc2de81100.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/46cd414649c446688d5385abc26038f6.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/46cd414649c446688d5385abc26038f6.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/b8589fb24fca458db8fbead3f2a192ad.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/b8589fb24fca458db8fbead3f2a192ad.jpg"
+      },
+      {
+        "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/b843b98c87b244d6b3fd252bd8ef8ccc.jpg",
+        "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/b843b98c87b244d6b3fd252bd8ef8ccc.jpg"
+      }
+    ],
+    "stockItemVideo": {
+      "url": "https://youtube.com/embed/RTyFW-ONNYI?autoplay=1&rel=0",
+      "preview": null
+    },
+    "stockItemSpinner": null,
+    "videoProvider": "Portal"
+  },
+  "sale": {
+    "advertTitle": "Alfa Romeo Giulia Veloce 2.0 Petrol 280 BHP-NOW AVAILABLE TO ORDER",
+    "advertDescription": "NOW AVAILABLE TO ORDER Alfa Romeo Giulia Veloce 2.0 Petrol 280 BHP Optional extras Electrically Operated Sunroof-1€500 Red Brake Calipers-€500 Alfa Red-1000 Standard equipment Dark Interior Roof Lining Dark tinted rear windows 19\" 5-Spoke Diamond Cut Alloy Wheels Elechtrochromic Rearview Mirror Aluminium Shift Paddles on Steering column Parking Assistance Pack Convenience pack European Maps PRO (Traffic Message Channel) Alfa Multitouch 3D Nav 8.8\" Infotainment System Active cruise control Wireless Charging Pad OCCUPANT DETECTION SYSTEM Features: - USB MP3 - Sport interior - Electric Windows - Curtain Airbags - Sport exhaust pipe - Electric Sunroof - Child Locks - Traction control - Electric Mirrors - Centralised locking - Split Fold Rear Seats - Sport Chassis - Dual Climate Control - Auto Wipers - Satellite Navigation - Reversing Camera - Auto Lights - Reversing Camera - Privacy Glass - Side Impact Protection - DAB Radio - Remote Boot Release - Pearlescent paint - Side Airbag - Cruise Control - Auto Handbrake - Remote controlled alarm - Bluetooth Phone - Auto Dimming Rear View Mirror - Rear headrests - Panoramic roof - Armrest - Power Steering - LED'S - Remote Central Locking - APPLE CAR PLAY - Outside temperature meter - Leather Steering Wheel - Mirrors electric and heated - Rear Parking Sensors - ABS - Onboard Computer - Leather Interior - Media Connection - Parking Assistance - 3x3point rear seat belts - Air Conditioning - Leather Gear Skirt - iPod Connection - Multiple Airbags - Tiptronic - Adjustable steering column/wheel - Multi-Function Steering Wheel - ISO Fix - Stop and Start System - Colour coding - Interior - Height adjustable drivers seat - Body Coloured Bumpers/Mirrors - Heated Seats - Immobilizer - Rain sensor - Alloy Wheels - Front Restraints - Front Parking Sensors - PREMIUM - Traction Control - Front Arm Rest - Foglights - Manufacturers Warranty - Electrically Adjustable Seats - ESP - Finance Available - Sports seats",
+    "advertPricing": {
+      "price": 68750,
+      "euroPrice": 68750,
+      "unit": "€",
+      "suppliedPrice": 68750,
+      "priceOnApplication": false,
+      "hasFinanceInformation": false,
+      "vatStatus": "Inc VAT",
+      "plusVatIndicated": null,
+      "manufacturerRRP": null,
+      "manufacturerRRPSavingPCT": null
+    },
+    "finance": null,
+    "features": [
+      "ABS",
+      "Side Airbag",
+      "Air Conditioning",
+      "19' Alloys",
+      "Armrest",
+      "Auto Handbrake",
+      "Bluetooth Phone",
+      "Child Locks",
+      "Cruise Control",
+      "Dual Climate Control",
+      "Electric Windows",
+      "ESP",
+      "Immobilizer",
+      "ISO Fix",
+      "Leather Interior",
+      "Multi-Function Steering Wheel",
+      "Onboard Computer",
+      "Parking Assistance",
+      "Power Steering",
+      "Remote Central Locking",
+      "Satellite Navigation",
+      "Side Impact Protection",
+      "Split Fold Rear Seats",
+      "Stop and Start System",
+      "Tiptronic",
+      "Front Parking Sensors",
+      "Rear Parking Sensors",
+      "Auto Dimming Rear View Mirror",
+      "Leather Steering Wheel",
+      "Multiple Airbags",
+      "Reversing Camera",
+      "USB MP3",
+      "Traction Control",
+      "Front Arm Rest",
+      "DAB Radio",
+      "3x3point rear seat belts",
+      "Remote controlled alarm",
+      "Adjustable steering column/wheel",
+      "Body Coloured Bumpers/Mirrors",
+      "Sport Chassis",
+      "Colour coding - Interior",
+      "Front Restraints",
+      "Height adjustable drivers seat",
+      "Mirrors electric and heated",
+      "Outside temperature meter",
+      "Pearlescent paint",
+      "Rear headrests",
+      "Sport exhaust pipe",
+      "Sport interior",
+      "Sports seats",
+      "Traction control",
+      "Media Connection",
+      "Remote Bo"
+    ]
+  },
+  "specification": {
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "derivative": "Veloce 2.0 Petrol 280 BHP-NOW AVAILABLE TO ORDER",
+    "bodyType": "Saloon",
+    "engine": {
+      "power": {
+        "enginePower": null,
+        "unit": null
+      },
+      "sizeCC": 2000,
+      "sizeLitres": "2.0",
+      "manufacturerEngineSize": 2.0
+    },
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "doors": 4,
+    "seats": null,
+    "vehicleCategory": "Car"
+  },
+  "vehicle": {
+    "registrationYear": 2022,
+    "colour": "Red",
+    "mileage": {
+      "mileage": null,
+      "unit": null,
+      "mileageKm": null
+    },
+    "owners": 0,
+    "ieYearHalfYear": "2022 (222)",
+    "usedApproved": false,
+    "registration": "222-C-05",
+    "registrationDate": null,
+    "motDate": null,
+    "taxBand": null,
+    "manufacturerColour": null,
+    "condition": "Used"
+  }
+}

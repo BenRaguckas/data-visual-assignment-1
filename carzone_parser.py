@@ -3,6 +3,7 @@ import requests
 from tqdm import tqdm
 
 
+#   For determining what data to store
 def parse_json_item(json_dict: dict) -> dict:
     car_info = dict()
     car_info['publicReference'] = json_dict['publicReference']

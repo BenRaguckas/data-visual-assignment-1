@@ -1,0 +1,272 @@
+{
+  "publicReference": "202206076550711",
+  "dealerReference": null,
+  "priceDetail": {
+    "gbpPrice": null,
+    "euroPrice": 68750,
+    "vatIncluded": true,
+    "auction": false,
+    "poa": false
+  },
+  "searchDetailSummary": {
+    "channel": "Car",
+    "year": 2022,
+    "mmv": {
+      "make": "Alfa Romeo",
+      "model": "Giulia",
+      "derivative": "VELOCE 2.0 PETROL 280 BHP",
+      "cleanMake": "Alfa Romeo",
+      "cleanModel": "Giulia"
+    },
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "category": {
+      "category": null,
+      "subCategory": null
+    },
+    "vrm": "222CGIULIA",
+    "mileage": null,
+    "channel": "Car"
+  },
+  "dealerDetailSummary": {
+    "sellerType": "ContractTrade",
+    "distanceInMiles": null,
+    "dealerName": "Dan Seaman Motors",
+    "dealerId": "10017289",
+    "dealerLogo": "https://ie-dealerlogo.atcdn.co.uk/dealer-resource/programme/featured/10017289.jpg",
+    "town": null,
+    "location": null,
+    "sellerType": "ContactTrade"
+  },
+  "imageDetails": [
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/dea69163584943bcbf6f4674650e00b2.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/dea69163584943bcbf6f4674650e00b2.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/e4e2240b348a43b1b355f94e86b49cec.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/e4e2240b348a43b1b355f94e86b49cec.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/88763d78a5244e0e857db8327b6625cc.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/88763d78a5244e0e857db8327b6625cc.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/beefa1ad598542b0a3afe266c5e8d8c1.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/beefa1ad598542b0a3afe266c5e8d8c1.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/d914db75925f4712beb6d40df72b0d40.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/d914db75925f4712beb6d40df72b0d40.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/4ba35ee798e544d69e783197fe9e3e1e.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/4ba35ee798e544d69e783197fe9e3e1e.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/e592561f8390450e8f4d2069dbd1a182.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/e592561f8390450e8f4d2069dbd1a182.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/40bd9a53d7e04f3bbe278324300d7e66.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/40bd9a53d7e04f3bbe278324300d7e66.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/0f59485846c94da692a80465b0d9cd92.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/0f59485846c94da692a80465b0d9cd92.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/87ee1f339a1742e2ac2e8a44e948a2a8.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/87ee1f339a1742e2ac2e8a44e948a2a8.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/671d80b29c1e4ea69c627801e84e012f.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/671d80b29c1e4ea69c627801e84e012f.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/021a51effcdd4f7b97b1fdfd21096bb7.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/021a51effcdd4f7b97b1fdfd21096bb7.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/3a320354046242ca95146843bbf5b5b7.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/3a320354046242ca95146843bbf5b5b7.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/5762c362b6394cbc8acc10993a97edc4.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/5762c362b6394cbc8acc10993a97edc4.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/5fd6831c92684949915de6f2b080d297.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/5fd6831c92684949915de6f2b080d297.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/673e436e23724b72a9311f06bd1c49ea.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/673e436e23724b72a9311f06bd1c49ea.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/674d9b675a4d4f3e906c3ac1e0bb9c8e.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/674d9b675a4d4f3e906c3ac1e0bb9c8e.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/60a13781996a405eb5da06ac71360005.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/60a13781996a405eb5da06ac71360005.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/5cca7d0f12044cb581c978bcc8e5abfd.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/5cca7d0f12044cb581c978bcc8e5abfd.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/261c473f2b5241d7be243b703de18dde.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/261c473f2b5241d7be243b703de18dde.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/57f56ddfcc7a48b1b54967fe66191734.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/57f56ddfcc7a48b1b54967fe66191734.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/a449aae64cc1492a912c21a72a0f4a75.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/a449aae64cc1492a912c21a72a0f4a75.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/847ead45fb4e4ea8b26d4d0e067eed27.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/847ead45fb4e4ea8b26d4d0e067eed27.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/62b70b3436974ff899181c351acba461.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/62b70b3436974ff899181c351acba461.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/5beeba39b22343fba47e5b8e09db9b63.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/5beeba39b22343fba47e5b8e09db9b63.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/d29e4b9c79404ba6804850c650ef924a.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/d29e4b9c79404ba6804850c650ef924a.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/9e7786949fec4e4ba5c8ceb9a3c795ce.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/9e7786949fec4e4ba5c8ceb9a3c795ce.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/b364a7f9d07d4d999952ce9849de4147.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/b364a7f9d07d4d999952ce9849de4147.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/90f4059070e846389ce302230739fe39.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/90f4059070e846389ce302230739fe39.jpg"
+    },
+    {
+      "fullSizeImageUrl": "https://m.atcdn.co.uk/a/media/1d24526240624b20a33fc16c7b09e9df.jpg",
+      "imageResizeUrl": "https://m.atcdn.co.uk/a/media/w%d/1d24526240624b20a33fc16c7b09e9df.jpg"
+    }
+  ],
+  "capabilities": [
+    "Video",
+    "HomeDeliveryService",
+    "LiveVideoService",
+    "CovidSafetyService",
+    "DealerBranding",
+    "LiveChat",
+    "MoreVehicleLinks",
+    "PartExchange"
+  ],
+  "videoLink": "https://youtube.com/embed/KLVZnUNkf2Y?autoplay=1&rel=0",
+  "stockLocation": {
+    "city": "Cork City",
+    "county": "Cork"
+  },
+  "sale": {
+    "advertTitle": "Alfa Romeo Giulia VELOCE 2.0 PETROL 280 BHP",
+    "advertDescription": null,
+    "advertPricing": {
+      "price": 68750,
+      "euroPrice": 68750,
+      "unit": "€",
+      "suppliedPrice": 68750,
+      "priceOnApplication": false,
+      "hasFinanceInformation": false,
+      "vatStatus": "Inc VAT",
+      "plusVatIndicated": null,
+      "manufacturerRRP": null,
+      "manufacturerRRPSavingPCT": null
+    },
+    "finance": null,
+    "features": [
+      "Air Conditioning",
+      "19' Alloys",
+      "Auto Handbrake",
+      "Bluetooth Phone",
+      "Child Locks",
+      "Climate Control",
+      "Cruise Control",
+      "Dual Climate Control",
+      "Electrically Adjustable Seats",
+      "Electric Mirrors",
+      "Electric Windows",
+      "ESP",
+      "Immobilizer",
+      "ISO Fix",
+      "Leather Interior",
+      "Metallic Paint",
+      "Multi-Function Steering Wheel",
+      "Onboard Computer",
+      "Parking Assistance",
+      "Remote Central Locking",
+      "Satellite Navigation",
+      "Side Impact Protection",
+      "Split Fold Rear Seats",
+      "Stop and Start System",
+      "Tiptronic",
+      "Privacy Glass",
+      "Auto Dimming Rear View Mirror",
+      "Leather Steering Wheel",
+      "Multiple Airbags",
+      "Reversing Camera",
+      "Curtain Airbags",
+      "Auto Lights",
+      "Manufacturers Warranty",
+      "USB MP3",
+      "Height Adjustable Seat",
+      "Sports Seats",
+      "Front Arm Rest",
+      "3x3point rear seat belts",
+      "Remote controlled alarm",
+      "Adjustable steering column/wheel",
+      "Body Kit",
+      "Body Coloured Bumpers/Mirrors",
+      "Sport Chassis",
+      "Colour coding - Interior",
+      "Foglights",
+      "Front Restraints",
+      "Mirrors electric and heated",
+      "Outside temperature meter",
+      "Rear headrests",
+      "Sport exhaust pipe",
+      "Sport interior",
+      "Traction control"
+    ]
+  },
+  "vehicle": {
+    "registrationYear": 2022,
+    "colour": "Blue",
+    "mileage": {
+      "mileage": null,
+      "unit": null,
+      "mileageKm": null
+    },
+    "owners": 0,
+    "ieYearHalfYear": "2022 (222)",
+    "usedApproved": false,
+    "registration": "222CGIULIA",
+    "registrationDate": null,
+    "motDate": null,
+    "taxBand": null,
+    "manufacturerColour": null,
+    "condition": "Used"
+  },
+  "hasVehicleSpin": false,
+  "franchiseListing": null,
+  "engineSize": "2.0",
+  "engineSizeCC": "2000",
+  "premiumListing": false
+}
